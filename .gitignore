@@ -1,0 +1,21 @@
+# Node
+node_modules/
+dist/
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+
+# Environment variables
+.env
+.env.*
+
+# Local database and uploaded files
+instance/
+uploads/
+
+# OS/editor
+.DS_Store
+.vscode/
